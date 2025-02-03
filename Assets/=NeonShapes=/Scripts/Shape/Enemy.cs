@@ -4,7 +4,7 @@ namespace NeonShapes
 {
     public class Enemy : ShapeBase
     {
-        [SerializeField, Range(2, 4)] private float fallSpeed = 3;
+        [SerializeField, Range(2, 4)] private float fallSpeed = 3.5f;
         
         //==================================================
         private void OnEnable()

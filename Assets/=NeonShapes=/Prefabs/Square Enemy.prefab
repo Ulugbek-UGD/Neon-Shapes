@@ -120,4 +120,4 @@ MonoBehaviour:
   - {fileID: 21300000, guid: 98135adfd7233274c9cc4a1da18e6a92, type: 3}
   - {fileID: 21300000, guid: b411c149393516441b8eefbb713f15a3, type: 3}
   - {fileID: 21300000, guid: bf9f16d9a7401884c972692d558efae1, type: 3}
-  fallSpeed: 3
+  fallSpeed: 3.5

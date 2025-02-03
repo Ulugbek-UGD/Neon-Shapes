@@ -25,7 +25,7 @@ namespace NeonShapes
         //==================================================
         public void SpeedUpSpawn()
         {
-            if (spawnRate > 1.3f)
+            if (spawnRate > 1.0f)
             {
                 spawnRate -= 0.1f;
             }
